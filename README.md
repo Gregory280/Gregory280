@@ -7,7 +7,8 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 🔭 I’m currently working on a platform for english language teachers post their lessons. <br>
 🌱 I’m currently learning Rails, React and MongoDB <br>
 📝 I regularly write articles on Medium.
-
+<br><br><br><br><br>
+<div align="center">
 <h3>:page_with_curl: Languages, Frameworks & Tools</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,13 +22,23 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
+  
+<h3>My latests blog posts</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"> 
 
 <h3>Feel free to contact me</h3>
 
 [<img src="https://img.shields.io/badge/Telegram-@gnm280-blue">](https://t.me/gnm280)
 [<img src="https://img.shields.io/badge/LinkedIn-Gregory Mayer-green">](https://www.linkedin.com/in/gregory-nicholas-mayer-373742232/) <br>
 [<img src="https://img.shields.io/badge/Email-gregory.nicholas.mayer@hotmail.com-orange">](mailto:gregory.nicholas.mayer@hotmail.com)
+
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=Gregory280&color=green&style=for-the-badge)
+  
+</div>
+
+![Snake animation](https://github.com/Gregory280/Gregory280/blob/output/github-contribution-grid-snake.svg)
+
