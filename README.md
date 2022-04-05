@@ -6,7 +6,7 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 
 🔭 I’m currently working on a platform for english language teachers post their lessons. <br>
 🌱 I’m currently learning Rails, React and MongoDB <br>
-📝 I regularly write articles on Medium. Check out below.
+📝 I regularly write articles on Medium.
 
 <h3>:page_with_curl: Languages, Frameworks & Tools</h3>
 
@@ -21,6 +21,11 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <h3>Feel free to contact me</h3>
 
