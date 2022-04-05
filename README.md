@@ -49,6 +49,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Killing Bites](https://anilist.co/anime/98389) (05:53, 05 April 2022)
 -   📺 Completed [Kotaro Lives Alone](https://anilist.co/anime/139589) (05:51, 01 April 2022)
 -   📺 Completed [Platinum End](https://anilist.co/anime/127401) (06:09, 28 March 2022)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (04:34, 28 March 2022)
@@ -56,7 +57,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [Akebi’s Sailor Uniform](https://anilist.co/anime/131548) (01:47, 28 March 2022)
 -   📺 Completed [One Piece Film: Strong World](https://anilist.co/anime/4155) (21:58, 17 March 2022)
 -   📺 Completed [Super Crooks](https://anilist.co/anime/109946) (06:17, 11 March 2022)
--   📺 Completed [Terra Formars: Revenge](https://anilist.co/anime/21300) (04:57, 07 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
