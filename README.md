@@ -41,7 +41,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
       
    </div>
 </div>
-<br><br>
 <h3>Feel free to contact me</h3>
 
 [<img src="https://img.shields.io/badge/Telegram-@gnm280-blue">](https://t.me/gnm280)
