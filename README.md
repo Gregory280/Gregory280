@@ -21,7 +21,7 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
-<h3>My latests posts</h3>
+<h3>My latest posts</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"> 
 
