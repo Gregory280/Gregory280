@@ -54,6 +54,9 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (04:34, 28 March 2022)
 -   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (03:01, 28 March 2022)
 -   📺 Completed [Akebi’s Sailor Uniform](https://anilist.co/anime/131548) (01:47, 28 March 2022)
+-   📺 Completed [One Piece Film: Strong World](https://anilist.co/anime/4155) (21:58, 17 March 2022)
+-   📺 Completed [Super Crooks](https://anilist.co/anime/109946) (06:17, 11 March 2022)
+-   📺 Completed [Terra Formars: Revenge](https://anilist.co/anime/21300) (04:57, 07 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
