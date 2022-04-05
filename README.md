@@ -6,8 +6,7 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 
 🔭 I’m currently working on a platform for english language teachers post their lessons. <br>
 🌱 I’m currently learning Rails, React and MongoDB <br>
-📝 I regularly write articles on Medium.
-<br><br><br><br><br>
+📝 Sometimes I write articles on Medium.
 <div align="center">
 <h3>:page_with_curl: Languages, Frameworks & Tools</h3>
 
