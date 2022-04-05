@@ -40,7 +40,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"></a>
    </div>
 </div>
-<br>
+
 <details>
 <summary>
   <h3>🌸 My recent AniList activity</h3><br>
