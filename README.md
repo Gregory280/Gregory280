@@ -24,7 +24,6 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Feel free to contact me</h3>
