@@ -35,15 +35,18 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="center">
   <img align="left" width="18%" src="https://i.imgur.com/SIQdKfs.png" />
   <div align="left">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1">
-      
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"></a>
    </div>
 </div>
-
- # 🌸 My recent AniList activity
-
+<br>
+<details>
+<summary>
+  <h3>🌸 My recent AniList activity</h3><br>
+</summary>
+<img align="left" width="20%" src="https://i.pinimg.com/originals/a9/64/16/a964169eb7c7222ea1b9b8c83742513b.jpg" />
+<div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Completed [Kotaro Lives Alone](https://anilist.co/anime/139589) (05:51, 01 April 2022)
@@ -53,6 +56,10 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [Akebi’s Sailor Uniform](https://anilist.co/anime/131548) (01:47, 28 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
+  </div>
+  <br>
+</details>
+
  
 <h3>Feel free to contact me</h3>
 
