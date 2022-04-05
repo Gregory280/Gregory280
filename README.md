@@ -41,6 +41,13 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
       
    </div>
 </div>
+
+ # 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+ 
 <h3>Feel free to contact me</h3>
 
 [<img src="https://img.shields.io/badge/Telegram-@gnm280-blue">](https://t.me/gnm280)
