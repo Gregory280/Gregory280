@@ -20,11 +20,17 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
+
+<div align="center">
+
+  ![Snake animation](https://github.com/Gregory280/Gregory280/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <h3>My latest posts</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"> 
-
+  
 <h3>Feel free to contact me</h3>
 
 [<img src="https://img.shields.io/badge/Telegram-@gnm280-blue">](https://t.me/gnm280)
@@ -37,5 +43,4 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
   
 </div>
 
-![Snake animation](https://github.com/Gregory280/Gregory280/blob/output/github-contribution-grid-snake.svg)
 
