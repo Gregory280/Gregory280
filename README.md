@@ -46,6 +46,12 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kotaro Lives Alone](https://anilist.co/anime/139589) (05:51, 01 April 2022)
+-   📺 Completed [Platinum End](https://anilist.co/anime/127401) (06:09, 28 March 2022)
+-   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (04:34, 28 March 2022)
+-   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (03:01, 28 March 2022)
+-   📺 Completed [Akebi’s Sailor Uniform](https://anilist.co/anime/131548) (01:47, 28 March 2022)
+
 <!-- ANILIST_ACTIVITY:end -->
  
 <h3>Feel free to contact me</h3>
