@@ -33,7 +33,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
  
 </div>
 <div align="center">
-  <img align="left" width="18%" src="https://i.imgur.com/z1elegm.png" />
+  <img align="left" width="18%" src="https://i.imgur.com/SIQdKfs.png" />
   <div align="left">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1">
