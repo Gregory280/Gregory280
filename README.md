@@ -7,7 +7,7 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 🔭 I’m currently working on a platform for english language teachers post their lessons. <br>
 🌱 I’m currently learning Rails, React and MongoDB <br>
 📝 Sometimes I write articles on Medium.
-<div align="center">
+
 <h3>:page_with_curl: Languages, Frameworks & Tools</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,8 +20,6 @@ I'm a crypto and anime enthusiast. I'd like to code anything related to games an
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
   
 <h3>My latests blog posts</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0">
