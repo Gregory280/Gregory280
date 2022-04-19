@@ -52,7 +52,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <br><br><br>
 <details>
 <summary>
-  <h4>🌸 My recent AniList activity</h4><br>
+  <h4>🌸 My recent AniList activity 🌸</h4><br>
 </summary>
 <img align="left" width="23%" src="https://i.pinimg.com/originals/a9/64/16/a964169eb7c7222ea1b9b8c83742513b.jpg" />
 <div align="left">
