@@ -33,7 +33,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
  
 </div>
 <div align="center">
-  <img align="left" width="16%" src="https://i.imgur.com/SIQdKfs.png" />
+  <img align="left" width="15%" src="https://i.imgur.com/SIQdKfs.png" />
   <div align="left">
     <h3><ins>Check out my Medium posts</ins></h3>
       <h4><a href='https://medium.com/@gregorymayer/telegram-bot-e-ruby-como-fazer-e-publicar-um-bot-que-consome-uma-api-com-ruby-e-heroku- 6b3f453bf344'>:arrow_right: Telegram Bot e Ruby — Como fazer e publicar um bot que consome uma API com Ruby e Heroku</a></h4>
