@@ -33,23 +33,15 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
  
 </div>
 <div align="center">
-  <img align="left" width="14%" src="https://i.imgur.com/SIQdKfs.png" />
+  <img align="left" width="16%" src="https://i.imgur.com/SIQdKfs.png" />
   <div align="left">
     <h3><ins>Check out my Medium posts</ins></h3>
       <h4><a href='https://medium.com/@gregorymayer/telegram-bot-e-ruby-como-fazer-e-publicar-um-bot-que-consome-uma-api-com-ruby-e-heroku- 6b3f453bf344'>:arrow_right: Telegram Bot e Ruby — Como fazer e publicar um bot que consome uma API com Ruby e Heroku</a></h4>
       <h4><a href='https://medium.com/@gregorymayer/4-gems-para-utilizar-em-qualquer-projeto-rails-838005190e98'>:arrow_right: 4 Gems para utilizar em qualquer projeto Rails</a></h4>
       <h4><a href='https://medium.com/@gregorymayer/verificando-qualidade-de-uma-base-e-mails-utilizando-verify-email-e-ruby-777bac85afad'>:arrow_right: Verificando qualidade de uma lista de E-mails utilizando Verify-Email e Ruby</a></h4>
-    
-    
-<!--     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/0" alt="Recent Article 0"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/1" alt="Recent Article 1"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/2"><img width="65%" src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/2" alt="Recent Article 2"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gregorymayer/2" alt="Recent Article 2"> 
-      <a href='https://medium.com/@gregorymayer/telegram-bot-e-ruby-como-fazer-e-publicar-um-bot-que-consome-uma-api-com-ruby-e-heroku-6b3f453bf344'>Telegram Bot</a> -->
-    
    </div>
 </div>
-<br><br><br>
+<br><br><br><br><br>
 <details>
 <summary>
   <h4>🌸 My recent AniList activity 🌸</h4><br>
