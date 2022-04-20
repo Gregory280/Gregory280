@@ -41,7 +41,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
       <h4><a href='https://medium.com/@gregorymayer/verificando-qualidade-de-uma-base-e-mails-utilizando-verify-email-e-ruby-777bac85afad'>:arrow_right: Verificando qualidade de uma lista de E-mails utilizando Verify-Email e Ruby</a></h4>
    </div>
 </div>
-<br><br><br><br><br>
+<br><br><br><br>
 <details>
 <summary>
   <h4>🌸 My recent AniList activity 🌸</h4><br>
