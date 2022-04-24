@@ -51,13 +51,13 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Completed [Thermae Romae Novae](https://anilist.co/anime/125447) (06:11, 18 April 2022)
--   📺 Completed [Thermae Romae](https://anilist.co/anime/12321) (06:10, 18 April 2022)
 -   📺 Completed [Beck: Mongolian Chop Squad](https://anilist.co/anime/57) (04:36, 13 April 2022)
 -   📺 Completed [Mieruko-chan](https://anilist.co/anime/131083) (05:04, 10 April 2022)
 -   📺 Completed [Killing Bites](https://anilist.co/anime/98389) (05:53, 05 April 2022)
 -   📺 Completed [Kotaro Lives Alone](https://anilist.co/anime/139589) (05:51, 01 April 2022)
 -   📺 Completed [Platinum End](https://anilist.co/anime/127401) (06:09, 28 March 2022)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (04:34, 28 March 2022)
+-   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (03:01, 28 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
