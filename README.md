@@ -50,14 +50,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Tiger & Bunny: The Movie - The Rising](https://anilist.co/anime/12017) (02:28, 06 June 2022)
+-   📺 Completed [Tiger & Bunny: The Movie - The Beginning](https://anilist.co/anime/12015) (02:27, 06 June 2022)
 -   📺 Completed [Tiger & Bunny](https://anilist.co/anime/9941) (05:49, 04 June 2022)
 -   📺 Completed [School Babysitters](https://anilist.co/anime/98503) (05:11, 20 May 2022)
 -   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (00:55, 29 April 2022)
 -   📺 Completed [BANANA FISH](https://anilist.co/anime/100388) (18:35, 26 April 2022)
 -   📺 Completed [Thermae Romae Novae](https://anilist.co/anime/125447) (06:11, 18 April 2022)
 -   📺 Completed [Beck: Mongolian Chop Squad](https://anilist.co/anime/57) (04:36, 13 April 2022)
--   📺 Completed [Mieruko-chan](https://anilist.co/anime/131083) (05:04, 10 April 2022)
--   📺 Completed [Killing Bites](https://anilist.co/anime/98389) (05:53, 05 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
