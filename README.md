@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (04:21, 23 September 2022)
 -   📺 Completed [JoJo's Bizarre Adventure: STONE OCEAN Part 2](https://anilist.co/anime/146722) (00:19, 13 September 2022)
 -   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:32, 01 September 2022)
 -   📺 Completed [Baki Hanma](https://anilist.co/anime/124195) (04:26, 27 June 2022)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (03:56, 22 June 2022)
 -   📺 Completed [Gantz: Second Stage](https://anilist.co/anime/395) (04:10, 16 June 2022)
 -   📺 Completed [Gantz](https://anilist.co/anime/384) (04:10, 16 June 2022)
--   📺 Watched episode 12 of [TIGER & BUNNY 2](https://anilist.co/anime/117197) (05:55, 07 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
