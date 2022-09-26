@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (04:21, 23 September 2022)
--   📺 Completed [JoJo's Bizarre Adventure: STONE OCEAN Part 2](https://anilist.co/anime/146722) (00:19, 13 September 2022)
--   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (04:32, 01 September 2022)
--   📺 Completed [Baki Hanma](https://anilist.co/anime/124195) (04:26, 27 June 2022)
--   📺 Completed [BAKI](https://anilist.co/anime/97888) (21:05, 24 June 2022)
--   📺 Completed [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (03:56, 22 June 2022)
--   📺 Completed [Gantz: Second Stage](https://anilist.co/anime/395) (04:10, 16 June 2022)
--   📺 Completed [Gantz](https://anilist.co/anime/384) (04:10, 16 June 2022)
+-   📺 Plans to watch [Golden Kamuy 4](https://anilist.co/anime/142343) (03:49, 26 September 2022)
+-   📺 Plans to watch [Mob Psycho 100 III](https://anilist.co/anime/140439) (03:49, 26 September 2022)
+-   📺 Plans to watch [NieR:Automata Ver 1.1a](https://anilist.co/anime/145665) (03:49, 26 September 2022)
+-   📺 Plans to watch [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (03:49, 26 September 2022)
+-   📺 Plans to watch [The Way of the Househusband Season 2](https://anilist.co/anime/154982) (03:49, 26 September 2022)
+-   📺 Plans to watch [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (03:49, 26 September 2022)
+-   📺 Plans to watch [When Will Ayumu Make His Move?](https://anilist.co/anime/128223) (03:48, 26 September 2022)
+-   📺 Plans to watch [SHADOWS HOUSE 2nd Season](https://anilist.co/anime/139093) (03:48, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
