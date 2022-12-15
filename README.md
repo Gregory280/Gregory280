@@ -53,7 +53,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 
 -   📺 Plans to watch [Golden Kamuy Season 4](https://anilist.co/anime/142343) (03:49, 26 September 2022)
 -   📺 Plans to watch [Mob Psycho 100 III](https://anilist.co/anime/140439) (03:49, 26 September 2022)
--   📺 Plans to watch [NieR:Automata Ver 1.1a](https://anilist.co/anime/145665) (03:49, 26 September 2022)
+-   📺 Plans to watch [NieR:Automata Ver. 1.1a](https://anilist.co/anime/145665) (03:49, 26 September 2022)
 -   📺 Plans to watch [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (03:49, 26 September 2022)
 -   📺 Plans to watch [The Way of the Househusband: Season 2](https://anilist.co/anime/154982) (03:49, 26 September 2022)
 -   📺 Plans to watch [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (03:49, 26 September 2022)
