@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (07:58, 21 February 2023)
 -   📺 Completed [Record of Ragnarok II](https://anilist.co/anime/138056) (07:11, 05 February 2023)
 -   📺 Completed [Junji Ito Maniac: Japanese Tales of the Macabre](https://anilist.co/anime/150653) (05:40, 29 January 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (05:38, 29 January 2023)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Plans to watch [Golden Kamuy Season 4](https://anilist.co/anime/142343) (03:49, 26 September 2022)
 -   📺 Plans to watch [Mob Psycho 100 III](https://anilist.co/anime/140439) (03:49, 26 September 2022)
 -   📺 Plans to watch [NieR:Automata Ver1.1a](https://anilist.co/anime/145665) (03:49, 26 September 2022)
--   📺 Plans to watch [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (03:49, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
