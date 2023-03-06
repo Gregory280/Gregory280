@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2](https://anilist.co/anime/116867) (07:55, 06 March 2023)
+-   📺 Plans to watch [Hell’s Paradise](https://anilist.co/anime/128893) (07:51, 06 March 2023)
+-   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (07:51, 06 March 2023)
+-   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (07:51, 06 March 2023)
+-   📺 Plans to watch [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/anime/150075) (07:50, 06 March 2023)
+-   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (07:50, 06 March 2023)
+-   📺 Completed [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (05:34, 06 March 2023)
 -   📺 Completed [KENGAN ASHURA Part II](https://anilist.co/anime/111048) (10:22, 28 February 2023)
--   📺 Completed [KENGAN ASHURA Part I](https://anilist.co/anime/100891) (10:21, 28 February 2023)
--   📺 Completed [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (07:58, 21 February 2023)
--   📺 Completed [Record of Ragnarok II](https://anilist.co/anime/138056) (07:11, 05 February 2023)
--   📺 Completed [Junji Ito Maniac: Japanese Tales of the Macabre](https://anilist.co/anime/150653) (05:40, 29 January 2023)
--   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (05:38, 29 January 2023)
--   📺 Completed [Mob Psycho 100 III](https://anilist.co/anime/140439) (05:12, 22 December 2022)
--   📺 Plans to watch [Golden Kamuy Season 4](https://anilist.co/anime/142343) (03:49, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
