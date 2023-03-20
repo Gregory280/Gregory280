@@ -56,7 +56,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Plans to watch [Hell’s Paradise](https://anilist.co/anime/128893) (07:51, 06 March 2023)
 -   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (07:51, 06 March 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (07:51, 06 March 2023)
--   📺 Plans to watch [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/anime/150075) (07:50, 06 March 2023)
+-   📺 Plans to watch [KONOSUBA - An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (07:50, 06 March 2023)
 -   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (07:50, 06 March 2023)
 -   📺 Completed [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (05:34, 06 March 2023)
 
