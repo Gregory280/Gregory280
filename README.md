@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (06:53, 11 May 2023)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (06:11, 22 April 2023)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (14:13, 19 April 2023)
 -   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (06:56, 11 March 2023)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Plans to watch [Hell’s Paradise](https://anilist.co/anime/128893) (07:51, 06 March 2023)
 -   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (07:51, 06 March 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (07:51, 06 March 2023)
--   📺 Plans to watch [KONOSUBA -An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (07:50, 06 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
