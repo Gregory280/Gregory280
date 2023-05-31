@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [TIGER & BUNNY 2](https://anilist.co/anime/117197) (05:19, 31 May 2023)
 -   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (06:53, 11 May 2023)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (06:11, 22 April 2023)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (14:13, 19 April 2023)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Watched episode 6 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2](https://anilist.co/anime/116867) (07:55, 06 March 2023)
 -   📺 Plans to watch [Hell’s Paradise](https://anilist.co/anime/128893) (07:51, 06 March 2023)
 -   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (07:51, 06 March 2023)
--   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (07:51, 06 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
