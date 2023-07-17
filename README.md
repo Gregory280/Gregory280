@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Record of Ragnarok II Part 2](https://anilist.co/anime/165356) (02:44, 17 July 2023)
+-   📺 Watched episode 10 of [Record of Ragnarok II](https://anilist.co/anime/138056) (02:43, 17 July 2023)
 -   📺 Completed [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (04:37, 08 July 2023)
 -   📺 Completed [Monster](https://anilist.co/anime/19) (15:04, 10 June 2023)
 -   📺 Completed [TIGER & BUNNY 2](https://anilist.co/anime/117197) (05:19, 31 May 2023)
 -   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (06:53, 11 May 2023)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (06:11, 22 April 2023)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (14:13, 19 April 2023)
--   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (06:56, 11 March 2023)
--   📺 Watched episode 6 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2](https://anilist.co/anime/116867) (07:55, 06 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
