@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (06:14, 18 May 2024)
 -   📺 Completed [GTO: Great Teacher Onizuka](https://anilist.co/anime/245) (21:48, 30 April 2024)
 -   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (07:00, 18 April 2024)
 -   📺 Completed [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (06:59, 18 April 2024)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Watched episode 10 of [Record of Ragnarok II](https://anilist.co/anime/138056) (02:43, 17 July 2023)
 -   📺 Completed [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (04:37, 08 July 2023)
 -   📺 Completed [Monster](https://anilist.co/anime/19) (15:04, 10 June 2023)
--   📺 Completed [TIGER & BUNNY 2](https://anilist.co/anime/117197) (05:19, 31 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
