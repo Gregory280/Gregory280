@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (01:33, 27 May 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (22:15, 23 May 2024)
 -   📺 Completed [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (22:15, 23 May 2024)
 -   📺 Completed [Hell’s Paradise](https://anilist.co/anime/128893) (17:16, 22 May 2024)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (06:14, 18 May 2024)
 -   📺 Completed [GTO: Great Teacher Onizuka](https://anilist.co/anime/245) (21:48, 30 April 2024)
 -   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (07:00, 18 April 2024)
--   📺 Completed [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (06:59, 18 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
