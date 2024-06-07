@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Baki Hanma VS Kengan Ashura](https://anilist.co/anime/176287) (23:51, 06 June 2024)
+-   📺 Completed [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (19:30, 06 June 2024)
+-   📺 Completed [The Duke of Death and His Maid](https://anilist.co/anime/129277) (19:30, 06 June 2024)
 -   📺 Completed [Vinland Saga Season 2](https://anilist.co/anime/136430) (14:07, 01 June 2024)
 -   📺 Completed [Vinland Saga](https://anilist.co/anime/101348) (14:06, 01 June 2024)
 -   📺 Completed [A Sign of Affection](https://anilist.co/anime/166794) (03:17, 29 May 2024)
 -   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (01:33, 27 May 2024)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (22:15, 23 May 2024)
--   📺 Completed [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (22:15, 23 May 2024)
--   📺 Completed [Hell’s Paradise](https://anilist.co/anime/128893) (17:16, 22 May 2024)
--   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (18:36, 18 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
