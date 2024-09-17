@@ -52,7 +52,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Completed [KENGAN ASHURA Season 2 Part.2](https://anilist.co/anime/169692) (18:39, 01 September 2024)
--   📺 Completed [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (20:56, 21 June 2024)
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 3](https://anilist.co/anime/136804) (20:56, 21 June 2024)
 -   📺 Completed [Baki Hanma VS Kengan Ashura](https://anilist.co/anime/176287) (23:51, 06 June 2024)
 -   📺 Completed [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (19:30, 06 June 2024)
 -   📺 Completed [The Duke of Death and His Maid](https://anilist.co/anime/129277) (19:30, 06 June 2024)
