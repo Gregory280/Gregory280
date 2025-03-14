@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (07:01, 14 March 2025)
+-   📺 Completed [The Duke of Death and His Maid Season 3](https://anilist.co/anime/169584) (07:00, 14 March 2025)
+-   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (07:00, 14 March 2025)
+-   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (06:59, 14 March 2025)
 -   📺 Completed [Trigun](https://anilist.co/anime/6) (18:06, 27 February 2025)
 -   📺 Completed [KENGAN ASHURA Season 2 Part.2](https://anilist.co/anime/169692) (18:39, 01 September 2024)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 3](https://anilist.co/anime/136804) (20:56, 21 June 2024)
 -   📺 Completed [Baki Hanma VS Kengan Ashura](https://anilist.co/anime/176287) (23:51, 06 June 2024)
--   📺 Completed [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (19:30, 06 June 2024)
--   📺 Completed [The Duke of Death and His Maid](https://anilist.co/anime/129277) (19:30, 06 June 2024)
--   📺 Completed [Vinland Saga Season 2](https://anilist.co/anime/136430) (14:07, 01 June 2024)
--   📺 Completed [Vinland Saga](https://anilist.co/anime/101348) (14:06, 01 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
