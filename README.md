@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (02:24, 24 March 2025)
--   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (07:01, 14 March 2025)
--   📺 Completed [The Duke of Death and His Maid Season 3](https://anilist.co/anime/169584) (07:00, 14 March 2025)
--   📺 Completed [Kaiju No.8](https://anilist.co/anime/153288) (07:00, 14 March 2025)
--   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (06:59, 14 March 2025)
--   📺 Completed [Trigun](https://anilist.co/anime/6) (18:06, 27 February 2025)
--   📺 Completed [KENGAN ASHURA Season 2 Part.2](https://anilist.co/anime/169692) (18:39, 01 September 2024)
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 3](https://anilist.co/anime/136804) (20:56, 21 June 2024)
+-   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (08:37, 14 April 2025)
+-   📺 Completed [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (08:33, 14 April 2025)
+-   📺 Completed [Bungo Stray Dogs 4](https://anilist.co/anime/141249) (08:33, 14 April 2025)
+-   📺 Completed [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (08:33, 14 April 2025)
+-   📺 Completed [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (08:32, 14 April 2025)
+-   📺 Completed [Bungo Stray Dogs](https://anilist.co/anime/21311) (08:31, 14 April 2025)
+-   📺 Completed [Your lie in April](https://anilist.co/anime/20665) (08:30, 14 April 2025)
+-   📺 Completed [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (08:29, 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
