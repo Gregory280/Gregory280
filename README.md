@@ -51,14 +51,14 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719) (17:36, 24 June 2025)
+-   📺 Completed [Fate/stay night: Unlimited Blade Works 2nd Season](https://anilist.co/anime/20792) (17:32, 24 June 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (08:37, 14 April 2025)
 -   📺 Completed [Bungo Stray Dogs 5](https://anilist.co/anime/163263) (08:33, 14 April 2025)
 -   📺 Completed [Bungo Stray Dogs 4](https://anilist.co/anime/141249) (08:33, 14 April 2025)
 -   📺 Completed [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (08:33, 14 April 2025)
 -   📺 Completed [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (08:32, 14 April 2025)
 -   📺 Completed [Bungo Stray Dogs](https://anilist.co/anime/21311) (08:31, 14 April 2025)
--   📺 Completed [Your lie in April](https://anilist.co/anime/20665) (08:30, 14 April 2025)
--   📺 Completed [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (08:29, 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
