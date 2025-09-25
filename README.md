@@ -51,6 +51,7 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 <div align="left">
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Demon Slayer: Kimetsu no Yaiba Infinity Castle](https://anilist.co/anime/178788) (23:34, 24 September 2025)
 -   📺 Completed [DAN DA DAN Season 2](https://anilist.co/anime/185660) (02:01, 21 September 2025)
 -   📺 Completed [NANA](https://anilist.co/anime/877) (14:09, 10 September 2025)
 -   📺 Completed [Takopi's Original Sin](https://anilist.co/anime/185407) (02:59, 18 August 2025)
@@ -58,7 +59,6 @@ I'm a crypto and anime enthusiast. Full stack developer student trying to code a
 -   📺 Completed [Blue Box](https://anilist.co/anime/170942) (05:35, 15 July 2025)
 -   📺 Completed [Fate/Grand Order Absolute Demonic Front: Babylonia](https://anilist.co/anime/103275) (05:58, 04 July 2025)
 -   📺 Completed [Lost in Starlight](https://anilist.co/anime/192002) (09:50, 29 June 2025)
--   📺 Completed [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719) (17:36, 24 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
   </div>
